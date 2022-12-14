@@ -1,3 +1,12 @@
-#testTag {
-  color: red;
+body{
+  width: auto;
+  padding: 0 50px;
+  background-color: #EEEEEE;
+}
+
+.list{
+  font-size: 20px;
+}
+.day {
+  padding-top: 5px;
 }
